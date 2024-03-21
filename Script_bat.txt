@@ -1,0 +1,1 @@
+"C:\Users\15035\AppData\Local\Microsoft\WindowsApps\python.exe" "C:\Users\15035\Desktop\Python_Script\python_sql_automation.py"

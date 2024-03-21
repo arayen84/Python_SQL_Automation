@@ -1,0 +1,1 @@
+"C:\Users\15035\AppData\Local\Microsoft\WindowsApps\python.exe" "C:\Users\15035\Desktop\Python_script_2\Chocolate.py"
